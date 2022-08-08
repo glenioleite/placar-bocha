@@ -1,3 +1,4 @@
 Arquivo destinado a arquivar e organizar informações sobre o placar:
 
-
+deixar tudo importante aqui
+vamos ver se precisa commit
